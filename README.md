@@ -1,4 +1,2 @@
-# bhuman
-Website for bhuman statesments
-
-
+# Entrega
+Primer trabajo de NUCBA
