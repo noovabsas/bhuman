@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(241, 160, 160);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+h1{
+    font-size: 32px;
+    padding-bottom: 12px;
+}
+
+
+.heroImage{
+    width: 300px;
+    
+}
+
+
+.loggin{
+    color: white;
+    margin: 20px;
+    padding: 50px;
+    background-color: #272b23;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    width: 500px;
+}
+
+input{
+    
+    background-color: lightsalmon;
+    border-radius: 50px;
+    width: 300px;
+    height: 60px;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    color: maroon;
+    text-align: center;
+}
+
+.button{
+    background:rgb(128, 0, 96);
+    color: wheat;
+    border-radius: 50px;
+    width: 300px;
+    height: 60px;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.button:active{
+    background:rgb(28, 0, 128);
+    color: wheat;
+}
+
+.button:focus{
+    background:rgb(128, 0, 96);
+    color: wheat;
+}
+.button:hover{
+    background:rgb(129, 9, 9);
+    color: wheat;
+    text-decoration: none;
+}
+
+
+.soporte{
+    font-size: 13px;
+    color: white;
+}
